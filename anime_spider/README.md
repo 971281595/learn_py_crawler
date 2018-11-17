@@ -7,7 +7,8 @@ python版本:python3.7.1
 主要使用的python模块: 1.urllib 2.selenium 3.json 4.re 5.os
 ***
 <h2>以下内容仅供学习使用</h2>
-以爬取漫画[一拳超人](https://www.ishuhui.com/comics/anime/53)为例
+
+**以爬取 漫画[一拳超人](https://www.ishuhui.com/comics/anime/53) 为例**
 
 1. 获取每一话的URL并下载到本地
 
